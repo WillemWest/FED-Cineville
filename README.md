@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   hier je startniveau licht blauw
 
   #### Je focus:
-  hier je focus surface plane
+  surface plane
  
 </details>
 
@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  homepage 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Cineville Filmtheaters
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
@@ -57,6 +57,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  -Bijna elk stukje tekst is helemaal een ancor dus je hebt geen moeite met drukken op knoppen.
+  -Bij het selector scherm bij Filmtheaters zijn de knoppen wel een beetje klein maar het kan niet groter zonder het scherm een kilometer lang te maken.
+  -Aangezien bijna alles klikbaar is kan je heel makkelijk perongeluk naar een andere pagina gaan en als je dan snel terug wilt kom je weer bovenaan de vorige pagina in plaats van waar je al was.
 
 </details>
 
